@@ -5,6 +5,7 @@ The analysis covers booking trends, cancellations, driver/customer behavior, rev
 
 📌 Project Overview
 
+
 Dataset contains booking details with features like:
 
 Date, Time, Booking ID, Booking Status
