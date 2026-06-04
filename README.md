@@ -8,7 +8,7 @@ The analysis covers booking trends, cancellations, driver/customer behavior, rev
 
 Dataset contains booking details with features like:
 
-Date, Time, Booking ID, Booking Status
+Date, Time, Booking ID,   Booking Status
 
 Customer ID, Vehicle Type, Pickup & Drop Location
 
