@@ -1,4 +1,4 @@
-🚖 Ride-Hailing Data Analysis
+🚖 Ride Hailing Data Analysis
 
 This project analyzes ride-hailing dataset (similar to Uber/Ola) to generate business, operational, and customer insights.
 The analysis covers booking trends, cancellations, driver/customer behavior, revenue insights, and ratings.
