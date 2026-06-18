@@ -12,7 +12,7 @@ Date, Time, Booking ID,   Booking Status
 
 Customer ID, Vehicle Type, Pickup & Drop Location
 
-Avg VTAT (Vehicle Turn Around Time), Avg CTAT (Customer Turn Around Time)
+Avg VTAT (Vehicle Turn Around Time), Avg ctat (Customer Turn Around Time)
 
 Booking Value, Ride Distance, Ratings, Payment Method, etc.
 
